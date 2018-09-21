@@ -1,0 +1,28 @@
+_repo: Anthroposophie-im-Umriss-Entwurf-eines-Systems-idealer-Weltansicht-auf-realistischer-Grundlag__53962
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zimmermann, Robert
+    alias: Zimmermann, Robert, Edler von
+    birthdate: 1824
+    deathdate: 1898
+    gutenberg_agent_id: '40020'
+    url: http://www.gutenberg.org/2009/agents/40020
+description: ''
+gutenberg_issued: '2017-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53962'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+- !lcsh 'Anthroposophy'
+- GITenberg
+title: 'Anthroposophie im Umriss
+
+  Entwurf eines Systems idealer Weltansicht auf realistischer Grundlage'
+url: http://www.gutenberg.org/ebooks/53962
